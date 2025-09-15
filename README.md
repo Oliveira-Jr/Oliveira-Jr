@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**Oliveira-Jr/Oliveira-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fábio Júnior, an aspiring Software Developer currently pursuing a degree in Computer Information Systems at UFU (Universidade Federal de Uberlândia). Originally from Uberaba, Minas Gerais, I’m motivated by how technology can open new possibilities and improve people’s daily lives.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Future Software Developer with focus on Back-End  
+- 🎓 Computer Information Systems student at UFU  
+- 📌 Interests: Software Development, APIs, and Databases  
+- ⚡ Enthusiastic about designing efficient and scalable systems  
+- 🏅 Nationally recognized for achievements in extracurricular activities  
+- 🤝 Collaborative mindset and adaptability, experienced in working with teams toward common goals  
+- 🧩 Critical thinker with problem-solving skills to tackle complex challenges  
+- 🌎 Intermediate/advanced English proficiency  
